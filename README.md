@@ -112,6 +112,12 @@ dsa210-project/
 │   ├── 02_hypothesis_testing.ipynb
 │   └── 03_machine_learning.ipynb
 │
+├── charts/
+│   ├── eda_chart1.png
+│   ├── eda_chart2.png
+│   ├── ml_chart1.png
+│   └── ml_chart2.png
+│
 ├── requirements.txt
 ├── proposal.pdf
 ├── final_report.pdf
